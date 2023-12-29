@@ -1,0 +1,1 @@
+schedule: python schbot.py

@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+schedule
+bs4
+soupsieve
